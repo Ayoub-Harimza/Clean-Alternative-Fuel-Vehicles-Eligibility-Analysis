@@ -20,4 +20,8 @@ In this Exploratory Data Analysis (EDA) section, the following actions were perf
 7. Investigated and handled missing values using `df.isna().sum()` and subsequently removed rows with missing values from the DataFrame.
 
 This EDA serves as the preliminary steps to understand the structure, content, and quality of the dataset before diving into further analysis and visualization.
+
+# Data Visualization with Tableau
+The data was visualized using Tableau. The interactive version of the dashboard can be found on [Tableau's website] (https://public.tableau.com/views/Book2_17052462280990/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+ or in the resources.
   
