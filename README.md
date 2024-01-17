@@ -23,5 +23,6 @@ This EDA serves as the preliminary steps to understand the structure, content, a
 
 # Data Visualization with Tableau
 The data was visualized using Tableau. The interactive version of the dashboard can be found on [Tableau's website](https://public.tableau.com/views/Book2_17052462280990/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
- or in the resources.
+ or in the [resources](https://github.com/Ayoub-Harimza/Clean-Alternative-Fuel-Vehicles-Eligibility-Analysis/tree/main/Tableau%20visualizations).
+ 
   
