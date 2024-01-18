@@ -30,4 +30,10 @@ I'ts clearly observed that out of the electric vehicles registered in Washington
 In summary, a substantial portion of electric vehicles meeting Clean Alternative Fuel criteria in Washington are Battery Electric, whereas the majority of Non-eligible vehicles are Plug-in Hybrid.
 ![Image](https://github.com/Ayoub-Harimza/Clean-Alternative-Fuel-Vehicles-Eligibility-Analysis/blob/main/Tableau%20visualization/DASHBOARD.PNG)
 
-  
+## Contact
+
+Feel free to reach out if you have any questions or would like to discuss this project further:
+
+- **Email:** Ayoubharimza21@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ayoub-harimza-4926a22a7/)
+
