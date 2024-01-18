@@ -35,5 +35,5 @@ In summary, a substantial portion of electric vehicles meeting Clean Alternative
 Feel free to reach out if you have any questions or would like to discuss this project further:
 
 - **Email:** Ayoubharimza21@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ayoub-harimza-4926a22a7/)
+- **LinkedIn:** [Ayoub Harimza](https://www.linkedin.com/in/ayoub-harimza-4926a22a7/)
 
