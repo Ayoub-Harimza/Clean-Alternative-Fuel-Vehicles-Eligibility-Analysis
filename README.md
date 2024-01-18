@@ -28,6 +28,6 @@ The data was visualized using Tableau. The interactive version of the dashboard 
 I'ts clearly observed that out of the electric vehicles registered in Washington state, 39.46% (64,323 vehicles) meet the criteria for Clean Alternative Fuel Vehicles. Within this category, 73.27% are Battery Electric, while the remaining 26.73% are Plug-in Hybrid Electric. Conversely, among the Non-eligible vehicles, a significant 99.95% are Plug-in Hybrid, with only a minimal 0.05% being Battery Electric.
 
 In summary, a substantial portion of electric vehicles meeting Clean Alternative Fuel criteria in Washington are Battery Electric, whereas the majority of Non-eligible vehicles are Plug-in Hybrid.
-![Image](https://github.com/Ayoub-Harimza/Clean-Alternative-Fuel-Vehicles-Eligibility-Analysis/blob/main/Tableau%20visualization/Dashboard%201.png)
+![Image](https://github.com/Ayoub-Harimza/Clean-Alternative-Fuel-Vehicles-Eligibility-Analysis/blob/main/Tableau%20visualization/DASHBOARD.PNG)
 
   
