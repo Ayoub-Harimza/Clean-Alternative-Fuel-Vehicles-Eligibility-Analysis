@@ -27,7 +27,31 @@ The data was visualized using Tableau. The interactive version of the dashboard 
 
 I'ts clearly observed that out of the electric vehicles registered in Washington state, 39.46% (64,323 vehicles) meet the criteria for Clean Alternative Fuel Vehicles. Within this category, 73.27% are Battery Electric, while the remaining 26.73% are Plug-in Hybrid Electric. Conversely, among the Non-eligible vehicles, a significant 99.95% are Plug-in Hybrid, with only a minimal 0.05% being Battery Electric.
 
+# Key Insights
 
+1. **High Percentage of Clean Alternative Fuel Vehicles:**
+   - Nearly 40% of electric vehicles registered in Washington meet the criteria for Clean Alternative Fuel Vehicles.
+   - This high percentage indicates a positive trend towards eco-friendly transportation choices.
+
+2. **Predominance of Battery Electric Vehicles among Eligible Cars:**
+   - Within the Clean Alternative Fuel Vehicles category, 73.27% are Battery Electric, showcasing a clear preference.
+   - Battery Electric Vehicles are likely perceived as more environmentally friendly.
+
+3. **Plug-in Hybrid Dominance among Non-eligible Vehicles:**
+   - Among the Non-eligible vehicles, an overwhelming 99.95% are Plug-in Hybrid Electric.
+   - Authorities may need to review eligibility criteria and promote education about distinctions.
+
+4. **Minimal Presence of Battery Electric Vehicles among Non-eligible Cars:**
+   - Only 0.05% of Non-eligible vehicles are Battery Electric.
+   - This low presence suggests that Battery Electric Vehicles align well with clean energy goals.
+
+5. **Electric Cars with Unknown Eligibility (Battery Range Not Researched):**
+   - Approximately 49.05% of electric vehicles have unknown eligibility status as their battery range has not been researched.
+   - Initiatives should be undertaken to assess the battery range of these vehicles.
+
+6. **Non-eligible Vehicles Due to Low Battery Range:**
+   - Among the known eligibility status, 11.48% of electric vehicles are deemed non-eligible due to low battery range.
+   - Stakeholders should consider revisiting eligibility criteria to encourage further adoption of clean energy alternatives.
 
 
 ![Image](https://github.com/Ayoub-Harimza/Clean-Alternative-Fuel-Vehicles-Eligibility-Analysis/blob/main/Tableau%20visualization/DASHBOARD.PNG)
