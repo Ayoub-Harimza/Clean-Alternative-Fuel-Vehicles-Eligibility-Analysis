@@ -22,8 +22,8 @@ In this Exploratory Data Analysis (EDA) section, the following actions were perf
 This EDA serves as the preliminary steps to understand the structure, content, and quality of the dataset before diving into further analysis and visualization.
 
 # Data Visualization with Tableau
-The data was visualized using Tableau. The interactive version of the dashboard can be found on [Tableau's website](https://public.tableau.com/views/Book2_17052462280990/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
- or in the [resources](https://github.com/Ayoub-Harimza/Clean-Alternative-Fuel-Vehicles-Eligibility-Analysis/tree/main/Tableau%20visualizations).
+The data was visualized using Tableau. The interactive version of the dashboard can be found on [Tableau's website](https://public.tableau.com/views/Book2_17052462280990/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
+ [image](https://github.com/Ayoub-Harimza/Clean-Alternative-Fuel-Vehicles-Eligibility-Analysis/blob/main/Tableau%20visualization/Clean%20Alternative%20Fuel%20Vehicles%20Eligibility%20Analysis%20Dashboard.PNG).
 
 I'ts clearly observed that out of the electric vehicles registered in Washington state, 39.46% (64,323 vehicles) meet the criteria for Clean Alternative Fuel Vehicles. Within this category, 73.27% are Battery Electric, while the remaining 26.73% are Plug-in Hybrid Electric. Conversely, among the Non-eligible vehicles, a significant 99.95% are Plug-in Hybrid, with only a minimal 0.05% being Battery Electric.
 
