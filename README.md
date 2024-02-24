@@ -47,7 +47,7 @@ I'ts clearly observed that out of the electric vehicles registered in Washington
    - Initiatives should be undertaken to assess the battery range of these vehicles.
 
 6. **Non-eligible Vehicles Due to Low Battery Range:**
-   - Among the known eligibility status, 11.48% of electric vehicles are deemed non-eligible due to low battery range.
+   - Among the known eligibility status, 22.53% of electric vehicles are deemed non-eligible due to low battery range.
    - Stakeholders should consider revisiting eligibility criteria to encourage further adoption of clean energy alternatives.
   
 
